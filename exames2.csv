@@ -1,2 +1,3 @@
-,id;nome
-1,1;Marco
+,mileage_per_year,model_year,price,sold
+0,21801,2000,30941.02,yes
+1,7843,1998,40557.96,yes
